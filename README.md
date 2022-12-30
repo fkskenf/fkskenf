@@ -8,11 +8,8 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
-  I have experience 7 years of Android development and 2 years of iOS development.<br/>
-  For the past year, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
-  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
+  👋&nbsp; Hi there! I'm <b>back-end developer</b> skilled in API, WEB.🚀<br/>
+  I enjoy soccer, watching movie and drive.<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
@@ -25,6 +22,8 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mssql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mssql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=mssql&logoColor=white"/>
