@@ -20,5 +20,9 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
+  <img src="https://img.shields.io/badge/Spring-4695EB?style=flat-square&logo=Quarkus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-boot-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+</p>
+<p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
