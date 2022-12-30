@@ -20,9 +20,12 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/Spring-4695EB?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
-  <img src="https://img.shields.io/badge/Spring Boot-61DAFB?style=flat-square&logo=Spring Boot&logoColor=#6DB33F"/>
+  <img src="https://img.shields.io/badge/Spring-#6DB33F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
+  <img src="https://img.shields.io/badge/Spring Boot-#6DB33F?style=flat-square&logo=Spring Boot&logoColor=#6DB33F"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-#D24939?style=flat-square&logo=Jenkins&logoColor=#D24939"/>
 </p>
