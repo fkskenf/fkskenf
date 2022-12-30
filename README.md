@@ -20,13 +20,16 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
-  <img src="https://img.shields.io/badge/Spring-CC2927?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
-  <img src="https://img.shields.io/badge/Spring Boot-CC2927?style=flat-square&logo=Spring Boot&logoColor=#6DB33F"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=#6DB33F"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=#6DB33F"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=mssql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mssql&logoColor=#4479A1"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mssql&logoColor=#003545"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=mssql&logoColor=#4169E1"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Jenkins-CC2927?style=flat-square&logo=Jenkins&logoColor=#D24939"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=#D24939"/>
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Jenkins&logoColor=#FF6C37"/>
 </p>
