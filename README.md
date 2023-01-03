@@ -17,6 +17,7 @@
 ### 💪 Skills
 #### Platforms & Languages
 <p>
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/>
 </p>
@@ -29,6 +30,8 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=mssql&logoColor=white"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
+ <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Jenkins&logoColor=white"/>
 </p>
