@@ -30,8 +30,10 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=mssql&logoColor=white"/>
 </p>
 <p>
+ <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
+ <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Jenkins&logoColor=white"/>
 </p>
